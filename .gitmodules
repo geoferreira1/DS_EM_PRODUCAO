@@ -1,0 +1,3 @@
+[submodule "test_telegram"]
+	path = test_telegram
+	url = https://github.com/geoferreira1/test_telegram
